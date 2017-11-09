@@ -1,0 +1,10 @@
+https://github.com/andli/dicecounter
+http://wollen.org/misc/dice_opencv.html
+Machine Learning:
+1. Roccio CLassification (klasyfikacja wg funkcji odleg³oœci)
+2. Algorytm k-NN - odleg³oœæ od najbli¿szych s¹siadów
+3. Filtr Gabora
+4. Momenty Hu (7 wartoœci charakteryzuj¹cych obraz - trzeba zwróciæ uwagê ¿e 0 to jest obiekt),
+momenty centralne, znormalizowane momenty centralne
+5. Naive Bayes
+Klasyfikacja œcian na podstawie odleg³oœci pomiêdzy kropkami
